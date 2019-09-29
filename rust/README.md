@@ -20,3 +20,4 @@ Rust is a multi-paradigm system programming language focused on safety, especial
 | hyper           | 8946802    | 297978.85 | 759.38MB  | 25.29MB    | 636.79us      |
 | tokio-minhttp   | 4762521    | 158615.27 | 467.82MB  | 15.58MB    | 767.68us      |
 | iron            | 4788528    | 159160.97 | 516.04MB  | 17.15MB    | 277.82us      |
+| nickel          | 5022538    | 167057.75 | 699.32MB  | 23.26MB    | 29.14us       |
