@@ -8,3 +8,10 @@ This is not a tool. it's an informative repository to compare frameworks from mu
  - Corsair 8GB 1600 MHz DDR3 RAM
  - Respective language compiler version under their `README`
  - wrk self compiled `v45f3fa0`
+
+## Winners so far according to language
+
+### Rust
+
+#### :fire: actix-web :fire:
+actix-web is a beast with an undisputed record of `327k req/s` and a transfer of `40.25 MB/s` :open_mouth: making it fastest framework not only in Rust but also compared to other languages.
