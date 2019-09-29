@@ -15,3 +15,16 @@ This is not a tool. it's an informative repository to compare frameworks from mu
 
 #### :fire: actix-web :fire:
 actix-web is a beast with an undisputed record of `327k req/s` and a transfer of `40.25 MB/s` :open_mouth: making it fastest framework not only in Rust but also compared to other languages.
+
+
+
+## Todo
+ - Languages to add
+    - Clojure
+	- Nim
+	- Scala?
+	- Crystal
+	- C/C++ (needs compilation for everything, might drop the plan!)
+	- Elixir
+ - Frameworks to add
+    - kemal (crystal)
