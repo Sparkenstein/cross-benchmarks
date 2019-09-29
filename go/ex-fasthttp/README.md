@@ -1,7 +1,6 @@
 # fasthttp
 
-(almost beat Rust O.o)
-
+TL;DR `req/s: 311k` (almost beat Rust O.o)
 ```
 Running 30s test @ http://localhost:3000/
   4 threads and 120 connections
