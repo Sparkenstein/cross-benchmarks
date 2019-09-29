@@ -26,5 +26,17 @@ actix-web is a beast with an undisputed record of `327k req/s` and a transfer of
 	- Crystal
 	- C/C++ (needs compilation for everything, might drop the plan!)
 	- Elixir
+	- F#
+	- Haskell?
+	- Nodejs
  - Frameworks to add
     - kemal (crystal)
+
+
+## Contribute
+Project is open for all to contribute, though I don't want you guys to run the benchmarks yourself as
+all of us don't have the same configuration machines. Still you can contribute with improving already written programs,
+writing `"Hello World"` program for any language from `Todo` Section and opening a PR.
+I will make Sure to compile those and run benchmarks for them with exact same configuration as well.
+Make sure the program runs on `/` i.e. index (root) route and returns "Hello World" Only. I am not interested in header and 
+other improvements as this benchmark is supposed to test framework in its raw state.
