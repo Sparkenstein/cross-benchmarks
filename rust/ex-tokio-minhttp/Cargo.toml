@@ -1,5 +1,5 @@
 [package]
-name = "tokio-minhttp"
+name = "ex-tokio-minhttp"
 version = "0.1.0"
 authors = ["Sparkenstein <zetabytes.pp@gmail.com>"]
 edition = "2018"
